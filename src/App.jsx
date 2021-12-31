@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import { useEffect, useMemo, useState } from "react";
 import { ethers } from "ethers";
 import { useWeb3 } from "@3rdweb/hooks";
